@@ -1,0 +1,14 @@
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\netcoreapp3.1\TulisanBerjalan.frmTulisanBerjalan.resources
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\netcoreapp3.1\TulisanBerjalan.csproj.GenerateResource.cache
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\netcoreapp3.1\TulisanBerjalan.AssemblyInfoInputs.cache
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\netcoreapp3.1\TulisanBerjalan.AssemblyInfo.cs
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\netcoreapp3.1\TulisanBerjalan.csproj.CoreCompileInputs.cache
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\bin\Debug\netcoreapp3.1\TulisanBerjalan.exe
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\bin\Debug\netcoreapp3.1\TulisanBerjalan.deps.json
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\bin\Debug\netcoreapp3.1\TulisanBerjalan.runtimeconfig.json
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\bin\Debug\netcoreapp3.1\TulisanBerjalan.runtimeconfig.dev.json
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\bin\Debug\netcoreapp3.1\TulisanBerjalan.dll
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\bin\Debug\netcoreapp3.1\TulisanBerjalan.pdb
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\netcoreapp3.1\TulisanBerjalan.dll
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\netcoreapp3.1\TulisanBerjalan.pdb
+D:\amikom 2\pl\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\netcoreapp3.1\TulisanBerjalan.genruntimeconfig.cache
